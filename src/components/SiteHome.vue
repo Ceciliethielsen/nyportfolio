@@ -1,7 +1,5 @@
 <script>
-    export default{
-        name: 'App'
-    }
+
 </script>
 
 <template>
@@ -9,10 +7,10 @@
         <div class="profile">
             <div class="rubrik">
                 <h1>Cecilie Thielsen</h1>
-                <h2>UI/UX Designer</h2>
+                <h2>Multimediedesigner</h2>
             </div>
             <div class="resume">
-                <a download href="../assets/cv.pdf" class="cv-button">
+                <a download="" href="@/@/public/cv.pdf" class="cv-button">
                     <span>Download mit CV her</span>
                     <svg width="13px" height="10px" viewBox="0 0 13 10">
                         <path d="M1,5 L11,5"></path>

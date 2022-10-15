@@ -7,6 +7,7 @@
         <ul class="nav-list">
             <li class="home active"><a href="#home" class="nav-link">HJEM</a></li>
             <li class="about"><a href="#about" class="nav-link">OM MIG</a></li>
+            <li class="praktik"><a href="#praktik" class="nav-link">PRAKTIK</a></li>
             <li class="portfolio"><a href="#portfolio" class="nav-link">PORTFOLIO</a></li>
             <li class="contact"><a href="#contact" class="nav-link">KONTAKT</a></li>
         </ul>    

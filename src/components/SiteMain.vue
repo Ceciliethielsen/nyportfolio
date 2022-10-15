@@ -3,6 +3,7 @@ import SiteHome from "./SiteHome.vue";
 import SiteEducation from "./SiteEducation.vue";
 import SitePortfolio from "./SitePortfolio.vue";
 import SiteContact from "./SiteContact.vue";
+import SiteSemestre from "./SiteSemestre.vue";
 
 </script>
 
@@ -12,6 +13,9 @@ import SiteContact from "./SiteContact.vue";
         </section>
         <section id="about">
             <SiteEducation/>
+        </section>
+        <section id="praktik">
+            <SiteSemestre/>
         </section>
         <section id="portfolio">
             <SitePortfolio/>

@@ -1,5 +1,7 @@
-<script setup>
-import SiteSemestre from "./SiteSemestre.vue";
+<script>
+    export default{
+
+    }
 
 </script>
 
@@ -59,9 +61,6 @@ import SiteSemestre from "./SiteSemestre.vue";
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="Semestre">
-            <SiteSemestre/>
         </div>
     </div>
             

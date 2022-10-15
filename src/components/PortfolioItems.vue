@@ -10,7 +10,6 @@
           <a href="https://ceciliethielsen.dk/projekt-6/">
             <img src="@/assets/wiser1.png" alt="Schneider Electric - Wiser smarthome" class="wiser">
             <h3>Schneider Electric</h3>
-            <p>Lavet i HTML, CSS og Javascript</p>
           </a>
         </div>
       </div>
@@ -19,7 +18,6 @@
           <a href="https://cillecamille.dk/projekt5/html/miljoe-venlig-genbrug-odense.html">
             <img src="@/assets/pulvis-logo.png" alt="Butik Pulvis" class="pulvis">
             <h3>Butik Pulvis</h3>
-            <p>Lavet i HTML, CSS og Javascript</p>
           </a>
         </div>
       </div>
@@ -30,7 +28,6 @@
           <a href="#">
             <img src="@/assets/logoer1.png" alt="ceciliethielsen.dk" class="logo">
             <h3>Personlig Portfolio</h3>
-            <p>Lavet med Vue og Sass</p>
           </a>
         </div>
       </div>
@@ -39,7 +36,6 @@
           <a href="https://www.youtube.com/watch?v=NXaHcMTCTVs">
             <img src="@/assets/ohnothing-logo.png" alt="Ohnothing logo" class="ohnothing">
             <h3>Mini-dokumentar for et <br>upcoming band</h3>
-            <p>Lavet med Premiere Pro</p>
           </a>
         </div>
       </div>
@@ -81,11 +77,6 @@
   .ohnothing{
     width: 20rem;
     margin: 1rem;
-  }
-  p{
-    text-align: left;
-    margin-left: 2rem;
-    color: black;
   }
   h3{
     text-align: left;
